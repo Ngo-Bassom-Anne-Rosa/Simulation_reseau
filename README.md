@@ -17,9 +17,9 @@ Le projet a été entièrement réalisé sous **Kali Linux 2025**, choisi pour :
 - la facilité d’installation des dépendances de ns-3 et Scapy
 - un environnement adapté aux travaux de cybersécurité et de réseaux
 
-### Outils utilisés
+### Principaux outils utilisés
 
-| Outil | Version / Rôle |
+| Principal outil | Version / Rôle |
 |------|------|
 | **Kali Linux** | Version 2025 |
 | **ns-3** | 3.46.1 (simulation réseau) |
