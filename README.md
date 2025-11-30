@@ -74,7 +74,7 @@ Après l’exécution du fichier `final_home_simulation_tp_fixed.cc`, plusieurs 
 Le fichier `ground_truth.csv` contient **exactement 375 lignes**, une par équipement simulé.
 
 
-## 5. Préparation du dataset Machine Learning
+## 5. Préparation du dataset
 
 Le traitement des traces est effectué avec le script Python : processing_dataset_fixed.py
 
