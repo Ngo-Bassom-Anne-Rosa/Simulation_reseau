@@ -154,7 +154,7 @@ Si l’exécution est correcte, plusieurs fichiers seront générés automatique
 - smart_home_simulation.xml : fichier de visualisation pour NetAnim
 - ground_truth.csv : vérité terrain (IP, type d’appareil, protocole, etc.)
 
-###7.2 Visualisation de la simulation avec NetAnim
+### 7.2 Visualisation de la simulation avec NetAnim
 
 Pour ouvrir et visualiser le réseau simulé, il faut ouvrir ce fichier dans NetAnim, netanim output/smart_home_simulation.xml
 
@@ -186,11 +186,4 @@ Processus terminé en XX.XX secondes.
 Ces informations confirment que : Les 375 équipements ont bien été détectés
 
 
-la détection d’anomalies
-
-l’apprentissage supervisé et non supervisé
-
-Ce jeu de données constitue la base principale pour tous les travaux d’analyse et de Machine Learning du projet.
-
-Copy code
 
